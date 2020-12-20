@@ -8,5 +8,7 @@ Note: these are crude scripts that gets the basic job done. There is no error ch
 functionality such as configurable IP addresses, usernames, passwords and so forth. You are free to pull,
 improve and I'll happily merge!
 
+There are some commented out print() statements that you may enable for debugging purposes.
+
 Make sure to change ruleNameList (line 13), the camera's IP address (line 17 and 41) and API username/password
 (line 22 and 46, normally the camera's "admin" account and password)
